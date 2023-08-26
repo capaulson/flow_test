@@ -1,3 +1,4 @@
 def someFunction(vars):
   print(vars)
-  return 1
+  vars['c'] =15
+  return vars
