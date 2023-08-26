@@ -1,2 +1,3 @@
-def someFunction(a,b):
-  return a+b
+def someFunction(vars):
+  print(vars)
+  return 1
