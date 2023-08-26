@@ -1,4 +1,2 @@
-def someFunction(vars):
-  print(vars)
-  vars['c'] =15
-  return vars
+def someFunction(a,b):
+  return a+b
