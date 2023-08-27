@@ -1,2 +1,2 @@
-def run(a,b):
-  return a+b
+c = a+b
+print(f'Result is: {c}')
